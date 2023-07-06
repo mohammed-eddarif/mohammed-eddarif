@@ -46,7 +46,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/free/?trk=df4742c3-0477-4645-86cc-5a2951c2f3a2&sc_channel=ps&ef_id=CjwKCAjwzJmlBhBBEiwAEJyLuzgoJfPyVrn2W3PoxqP36HP4ABSCXc3Qr58Urd3Jbm30n-YwEIkV3xoCnngQAvD_BwE:G:s&s_kwcid=AL!4422!3!656400693729!e!!g!!aws!20034604974!148307599173" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/ASUS/Downloads/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-eddarif&show_icons=true&locale=en&layout=compact" alt="mohammed-eddarif" /></p>
