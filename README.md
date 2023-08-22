@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-eddarif&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-eddarif" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development on AWS**
+- 🔭 I’m currently working on side projects on both **Spring boot and NextJs 13**
 
 - 🌱 I’m currently learning **Full Stack Development (React/Next/Angular/Spring-ecoSystem)**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development( Spring/Next )**
 
 - 📫 How to reach me **mohammed.eddarif06@gmail.com**
 
