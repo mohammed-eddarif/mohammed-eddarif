@@ -4,7 +4,7 @@
 <h3 align="center">Software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mohammed-eddarif&label=Profile%20views&color=0e75b6&style=flat]" alt="mohammed-eddarif" /> </p>
+<p align="left"> <img src="[https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966]" alt="mohammed-eddarif" /> </p>
 
 - 🔭 I’m currently working on side projects on both **Spring boot and NextJs 13**
 
