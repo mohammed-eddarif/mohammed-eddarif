@@ -1,4 +1,4 @@
-![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
+![MasterHead](https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)
 
 <h1 align="center">Hi 👋, I'm Eddarif Mohammed</h1>
 <h3 align="center">Software engineer</h3>
